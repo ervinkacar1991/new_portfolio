@@ -11,49 +11,54 @@ const Frontend = () => {
             <i class="bx bx-badge-check"></i>
             <div>
               <h3 className="skills__name">HTML</h3>
-              <span className="skills__level">Advanced</span>
             </div>
           </div>
           <div className="skills__data">
             <i class="bx bx-badge-check"></i>
             <div>
               <h3 className="skills__name">CSS</h3>
-              <span className="skills__level">Advanced</span>
             </div>
           </div>
           <div className="skills__data">
             <i class="bx bx-badge-check"></i>
             <div>
               <h3 className="skills__name">JavaScript</h3>
-              <span className="skills__level">Advanced</span>
             </div>
           </div>
           <div className="skills__data">
             <i class="bx bx-badge-check"></i>
             <div>
               <h3 className="skills__name">React</h3>
-              <span className="skills__level">Advanced</span>
+            </div>
+          </div>
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+            <div>
+              <h3 className="skills__name">Redux</h3>
+            </div>
+          </div>
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+            <div>
+              <h3 className="skills__name">REST</h3>
             </div>
           </div>
           <div className="skills__data">
             <i class="bx bx-badge-check"></i>
             <div>
               <h3 className="skills__name">React Native</h3>
-              <span className="skills__level">Advanced</span>
             </div>
           </div>
           <div className="skills__data">
             <i class="bx bx-badge-check"></i>
             <div>
               <h3 className="skills__name">Typescript</h3>
-              <span className="skills__level">Advanced</span>
             </div>
           </div>
           <div className="skills__data">
             <i class="bx bx-badge-check"></i>
             <div>
               <h3 className="skills__name">Git</h3>
-              <span className="skills__level">Advanced</span>
             </div>
           </div>
         </div>
