@@ -1,8 +1,5 @@
 import React from "react";
 import "./footer.css";
-import { GrFacebookOption } from "react-icons/gr";
-import { FiInstagram } from "react-icons/fi";
-import { IoLogoTwitter } from "react-icons/io";
 
 function Footer() {
   return (
@@ -15,38 +12,35 @@ function Footer() {
           <a href="#about">About</a>
         </li>
         <li>
-          <a href="#experience">Experience</a>
+          <a href="#services">Portfolio</a>
         </li>
 
         <li>
-          <a href="#testimonials">Testimonials</a>
-        </li>
-        <li>
-          <a href="#contact">Contact</a>
+          <a href="#services">Projects</a>
         </li>
       </ul>
       <div className="footer__socials">
+        <a href="kacarervin@gmail.com" target="_blank" rel="noreferrer">
+          <i class="uil uil-envelope-alt"></i>
+        </a>
         <a
-          href="https://www.facebook.com/ervin.kacar/"
+          href="https://github.com/ervinkacar1991"
           target="_blank"
           rel="noreferrer"
         >
-          <GrFacebookOption />
+          <i class="uil uil-github-alt"></i>
         </a>
         <a
-          href="https://www.instagram.com/ervin_kacar/"
+          href="https://www.linkedin.com/in/ervin-kacar/"
           target="_blank"
           rel="noreferrer"
         >
-          <FiInstagram />
-        </a>
-        <a href="https://twitter.com" target="_blank" rel="noreferrer">
-          <IoLogoTwitter />
+          <i class="uil uil-linkedin"></i>
         </a>
       </div>
 
       <div className="footer__copyright">
-        <small>&copy; PORTFOLIO. All right reserved</small>
+        <small>&copy; PORTFOLIO. Ervin Kacar</small>
       </div>
     </footer>
   );

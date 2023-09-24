@@ -57,18 +57,18 @@ function Projects() {
     <section id="portfolio">
       <h2 className="text__title">Projects</h2>
       <h5 className="text__desc">My Recent Work</h5>
-      <div className="container portfolio__container">
+      <div className="container portfolio__containerr">
         {data.map(({ id, image, title, github, demo }) => {
           return (
-            <article key={id} className="portfolio__item">
-              <div className="portfolio__item-image">
+            <article key={id} className="portfolio__itemm">
+              <div className="portfolio__item-imagee">
                 <img src={image} alt={title} />
               </div>
               <h3>{title}</h3>
-              <div className="portfolio__item-cta">
+              <div className="portfolio__item-ctaa">
                 <a
                   href={github}
-                  className="btn"
+                  className="btnn"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -76,7 +76,7 @@ function Projects() {
                 </a>
                 <a
                   href={demo}
-                  className="btn btn-primary"
+                  className="btn btn-primaryy"
                   target="_blank"
                   rel="noreferrer"
                 >
