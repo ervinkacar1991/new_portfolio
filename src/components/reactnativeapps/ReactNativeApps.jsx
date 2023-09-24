@@ -9,7 +9,7 @@ const ReactNativeApps = () => {
       <h2>React Native Apps</h2>
       <div className="container portfolio__container">
         <article className="portfolio__item">
-          <h3>Habbits Tracker</h3>
+          <h3 className="projects-title">Habbits Tracker</h3>
           <div className="portfolio__item-cta">
             <a
               href="https://play.google.com/store/apps/details?id=com.habitstracker.app"
@@ -22,7 +22,7 @@ const ReactNativeApps = () => {
           </div>
         </article>
         <article className="portfolio__item">
-          <h3>Quiz "Pitaj ucene"</h3>
+          <h3 className="projects-title">Quiz "Pitaj ucene"</h3>
           <div className="portfolio__item-cta">
             <a
               href="https://play.google.com/store/apps/details?id=com.pitajucene.kviz"
@@ -35,7 +35,7 @@ const ReactNativeApps = () => {
           </div>
         </article>
         <article className="portfolio__item">
-          <h3>My Social Media App</h3>
+          <h3 className="projects-title">My Social Media App</h3>
           <div className="portfolio__item-cta">
             <a
               href="https://github.com/ervinkacar1991/RN-social_media"
@@ -48,7 +48,7 @@ const ReactNativeApps = () => {
           </div>
         </article>
         <article className="portfolio__item">
-          <h3>mSufara</h3>
+          <h3 className="projects-title">mSufara</h3>
           <div className="portfolio__item-cta">
             <a
               href="https://play.google.com/store/apps/details?id=com.sufara.moja"

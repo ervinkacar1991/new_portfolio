@@ -24,7 +24,7 @@
     margin-bottom: var(--mb-2);
     color: var(--text-color-light);
   }
-  h3{
+  .projects-title{
     text-align: center;
   }
   h2{

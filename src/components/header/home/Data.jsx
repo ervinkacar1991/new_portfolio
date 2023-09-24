@@ -60,6 +60,18 @@ const Data = () => {
         I am a frontend software engineer, developing web and mobile
         applications since 2020. Forever learning and improving skills
       </p>
+
+      <span>
+        <a
+          href="http://mmsdevelopment.com/#team"
+          className="button button--flex"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Check my team
+          <i className="uil uil-arrow-right services__button-icon"></i>
+        </a>
+      </span>
     </div>
   );
 };

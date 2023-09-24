@@ -64,7 +64,7 @@ function Projects() {
               <div className="portfolio__item-imagee">
                 <img src={image} alt={title} />
               </div>
-              <h3>{title}</h3>
+              <h3 className="proj-title">{title}</h3>
               <div className="portfolio__item-ctaa">
                 <a
                   href={github}
