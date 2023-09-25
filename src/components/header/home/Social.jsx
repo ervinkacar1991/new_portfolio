@@ -7,6 +7,7 @@ const Social = () => {
         href="kacarervin@gmail.com"
         className="home__social-icon"
         target="_blank"
+        rel="noreferrer"
       >
         <i class="uil uil-envelope-alt"></i>
       </a>
@@ -14,6 +15,7 @@ const Social = () => {
         href="https://www.linkedin.com/in/ervin-kacar/"
         className="home__social-icon"
         target="_blank"
+        rel="noreferrer"
       >
         <i class="uil uil-linkedin"></i>
       </a>
@@ -21,6 +23,7 @@ const Social = () => {
         href="https://github.com/ervinkacar1991"
         className="home__social-icon"
         target="_blank"
+        rel="noreferrer"
       >
         <i class="uil uil-github-alt"></i>
       </a>
