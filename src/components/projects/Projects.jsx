@@ -2,7 +2,7 @@ import React from "react";
 import "./projects.css";
 import IMG1 from "../../assets/scr1.jpg";
 import IMG2 from "../../assets/scr2.png";
-import IMG3 from "../../assets/scr3.png";
+// import IMG3 from "../../assets/scr3.png";
 import IMG4 from "../../assets/scr4.png";
 import IMG5 from "../../assets/scr5.png";
 import IMG6 from "../../assets/scr6.png";
@@ -22,13 +22,13 @@ const data = [
     github: "https://github.com/ervinkacar1991/my_admin_dashboardApp",
     demo: "https://ervin-kacar-dashboard.netlify.app/",
   },
-  {
-    id: 3,
-    image: IMG3,
-    title: "Figma dashboard UI kit for data design web apps",
-    github: "https://github.com/ervinkacar1991/full_MERN-APP",
-    demo: "https://github.com/ervinkacar1991/full_MERN-APP",
-  },
+  // {
+  //   id: 3,
+  //   image: IMG3,
+  //   title: "Social Media App - example",
+  //   github: "https://github.com/ervinkacar1991/full_MERN-APP",
+  //   demo: "https://github.com/ervinkacar1991/full_MERN-APP",
+  // },
   {
     id: 4,
     image: IMG4,
