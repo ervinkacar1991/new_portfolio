@@ -15,9 +15,15 @@ const About = () => {
         <div className="about__data">
           <Info />
           <p className="about__description">
-            Frontend developer, I create web pages with UI / UX user interface,
-            I have years of experience and many clients are happy with the
-            projects carried out
+            As a highly motivated and results-driven software developer, I am
+            dedicated to delivering high-quality, innovative solutions that meet
+            the needs of my clients. With a strong background in software
+            development, I am well-versed in a wide range of programming
+            languages and technologies, and can quickly adapt to new
+            environments and technologies. I am known for my hardworking and
+            determined approach to my work, and I always strive to exceed
+            expectations. I take pride in my ability to think outside the box
+            and come up with creative solutions to complex problems.
           </p>
           <a download="" href={CV} className="button button--flex">
             Download CV

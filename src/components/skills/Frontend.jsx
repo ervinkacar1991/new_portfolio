@@ -10,18 +10,6 @@ const Frontend = () => {
           <div className="skills__data">
             <i class="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills__name">HTML</h3>
-            </div>
-          </div>
-          <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
-            <div>
-              <h3 className="skills__name">CSS</h3>
-            </div>
-          </div>
-          <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
-            <div>
               <h3 className="skills__name">JavaScript</h3>
             </div>
           </div>
@@ -46,7 +34,7 @@ const Frontend = () => {
           <div className="skills__data">
             <i class="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills__name">Redux</h3>
+              <h3 className="skills__name">Redux/Redux Toolkit</h3>
             </div>
           </div>
           <div className="skills__data">
@@ -60,6 +48,24 @@ const Frontend = () => {
             <i class="bx bx-badge-check"></i>
             <div>
               <h3 className="skills__name">Git</h3>
+            </div>
+          </div>
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+            <div>
+              <h3 className="skills__name">HTML</h3>
+            </div>
+          </div>
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+            <div>
+              <h3 className="skills__name">CSS</h3>
+            </div>
+          </div>
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+            <div>
+              <h3 className="skills__name">SASS</h3>
             </div>
           </div>
         </div>
